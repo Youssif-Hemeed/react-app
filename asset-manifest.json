@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.7a013c9c.css",
+    "main.js": "/react-app/static/js/main.40912251.js",
+    "static/js/787.8d231c03.chunk.js": "/react-app/static/js/787.8d231c03.chunk.js",
+    "static/media/blog-img-2.jpeg": "/react-app/static/media/blog-img-2.69e5e73301d9616ba8c6.jpeg",
+    "static/media/fa-solid-900.ttf": "/react-app/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/slider-image-1.jpeg": "/react-app/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/fa-brands-400.ttf": "/react-app/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/slider-image-3.jpeg": "/react-app/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/react-app/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/fa-solid-900.woff2": "/react-app/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/react-app/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/error.svg": "/react-app/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/cherries-6308871_640.jpg": "/react-app/static/media/cherries-6308871_640.00eaefd2e8b1321e84c5.jpg",
+    "static/media/fa-regular-400.ttf": "/react-app/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/tomatoes-321671_640.jpg": "/react-app/static/media/tomatoes-321671_640.6e856a25f7be5d15269b.jpg",
+    "static/media/no-product-found-f64bec64.png": "/react-app/static/media/no-product-found-f64bec64.586b20ff4a41075a2c4e.png",
+    "static/media/creditCard-36cc884b.png": "/react-app/static/media/creditCard-36cc884b.08febc36272ba154f91e.png",
+    "static/media/amazon1.png": "/react-app/static/media/amazon1.88ec6c49877ff812455f.png",
+    "static/media/fa-regular-400.woff2": "/react-app/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/americanExpress.png": "/react-app/static/media/americanExpress.8e8c8c471f03caa7d1a3.png",
+    "static/media/masterCard.png": "/react-app/static/media/masterCard.9a944b84eb1d7a7a8ca1.png",
+    "static/media/paypal.png": "/react-app/static/media/paypal.094f70a042c1bba937c4.png",
+    "static/media/google-play.png": "/react-app/static/media/google-play.282dcbeaa4af842e660f.png",
+    "static/media/freshcart-logo.svg": "/react-app/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/react-app/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/react-app/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/slick.svg": "/react-app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-app/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-app/index.html",
+    "main.7a013c9c.css.map": "/react-app/static/css/main.7a013c9c.css.map",
+    "main.40912251.js.map": "/react-app/static/js/main.40912251.js.map",
+    "787.8d231c03.chunk.js.map": "/react-app/static/js/787.8d231c03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a013c9c.css",
+    "static/js/main.40912251.js"
+  ]
+}
